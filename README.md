@@ -19,8 +19,8 @@ A responsive and multilingual chatbot designed for students and faculty at ISI M
 4. All interactions are logged and stored securely.
 
 ## Tech Stack
-- **Frontend**: Flutter (Responsive and elegant UI).
-- **Backend**: Custom NLP model, Firebase for user data.
+- **Frontend**: ReactJS and bootstrap (Responsive and elegant UI).
+- **Backend**: LLM model, Firebase for user data.
 - **Blockchain**: Smart contract for chat history storage.
 
 ## Installation
