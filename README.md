@@ -23,7 +23,7 @@ A responsive and multilingual chatbot designed for students and faculty at ISI M
 - **Backend**: LLM model, Firebase for user data.
 - **Blockchain**: Smart contract for chat history storage.
 - **You can find the RAG system in this [GitHub repository](https://github.com/AbderrazagB/isi-chatbot-backend).**
-
+## [Demo Video](https://youtu.be/70AnityoJ7Y)
 ## Installation
 1. Clone the repository:
    ```bash
